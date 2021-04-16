@@ -47,6 +47,7 @@ portal contains
 
 ## Datasets
 
+- *(New! 2021)* **UAV-Human Dataset** [[arxiv](https://arxiv.org/abs/2104.00946), [Github](https://github.com/SUTDCV/UAV-Human)]
 - *(New! 2021)* **NTU60-X Dataset** [[arxiv](https://arxiv.org/pdf/2101.11529.pdf), [Github](https://github.com/skelemoa/ntu-x)]
 - *(New! 2019)* **NTU RGB+D 120 Dataset** [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
 - NTU RGB+D Dataset [[Homepage](http://rose1.ntu.edu.sg/datasets/actionrecognition.asp),[Github](https://github.com/shahroudy/NTURGB-D)]
@@ -98,10 +99,13 @@ This section only includes the last five papers since 2018 in [arXiv.org](arXiv.
 
 ### Survey
 
+- Human Action Recognition from Various Data Modalities: A Review [[arxiv](https://arxiv.org/pdf/2012.11866)]
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (***TIP 2019***) [[arxiv](https://arxiv.org/pdf/1906.09955.pdf)]
 
 ### 2021
 
+
+- **[UAV-Human]** UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles (**CVPR 2021**) [[paper](https://arxiv.org/abs/2104.00946)]
 - **[MMDGCN]** Multi-scale Mixed Dense Graph Convolution Network for Skeleton-based Action Recognition (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9312608)]
 - Quo Vadis, Skeleton Action Recognition ? [[paper](https://arxiv.org/pdf/2007.02072.pdf)] [[Github](https://github.com/skelemoa/quovadis)] (**IJCV**)
 
